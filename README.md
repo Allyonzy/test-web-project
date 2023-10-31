@@ -1,2 +1,2 @@
-# Django_Template
-A Django secure starter template
+# Шаблон Django проекта 
+Проект для отображения результатов аналитического расчёта
